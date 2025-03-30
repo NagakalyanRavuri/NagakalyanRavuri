@@ -1,76 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nagakalyan's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #0073e6;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            background: #e7f0fd;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi 👋, I'm Nagakalyan</h1>
-        <p>A passionate Java developer from India.</p>
+# Hi there! 👋 I'm Nagakalyan 😃  
 
-        <h2>🌟 Work</h2>
-        <ul>
-            <li>
-                <strong>Notetaking Web Application</strong> - 
-                <a href="https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git" target="_blank">GitHub Repo</a>
-            </li>
-            <li>
-                <strong>Lead Management System</strong> - Project Link Coming Soon
-            </li>
-        </ul>
+🚀 A **passionate Java Developer** from India who loves building cool projects!  
 
-        <h2>🌱 Currently Learning</h2>
-        <p>DSA and Competitive Programming, Spring Framework, Hibernate</p>
+## 🌟 About Me  
+- 💻 I have worked on:  
+  - 📝 **[Note-taking Web Application](https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git)**  
+  - 📊 **Lead Management System** (Coming soon...)  
+- 🌱 Currently learning **DSA, Competitive Programming, Spring Framework, and Hibernate**  
+- 💬 Ask me about: **Java, HTML, CSS**  
+- 📫 Reach me at: **ravurinagakalyan@gmail.com**  
+- 👨‍💻 Check out my portfolio: **[My Portfolio](https://nagakalyanravuri.github.io/Nagakalyan_portfolio/)**  
+- 🤔 Fun fact: _I think I am funny!_ 😂  
 
-        <h2>💬 Ask Me About</h2>
-        <p>Java, HTML, CSS</p>
+---
 
-        <h2>📫 Contact Me</h2>
-        <p>Email: <a href="mailto:ravurinagakalyan@gmail.com">ravurinagakalyan@gmail.com</a></p>
-        <p>Portfolio: <a href="https://nagakalyanravuri.github.io/Nagakalyan_portfolio/" target="_blank">View Portfolio</a></p>
+## 🚀 Tech Stack  
+💻 **Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-        <h2>🔗 Connect with Me</h2>
-        <ul>
-            <li><a href="https://github.com/nagakalyanravuri" target="_blank">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/naga-kalyan-41507a254/" target="_blank">LinkedIn</a></li>
-            <li><a href="https://leetcode.com/u/nagakalyanravuri/" target="_blank">LeetCode</a></li>
-            <li><a href="https://www.geeksforgeeks.org/user/ravurinagg6dg/" target="_blank">GeeksforGeeks</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+🛠️ **Frameworks & Tools:**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Nagakalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NagakalyanRavuri&show_icons=true&theme=radical)  
+
+🔥 Streak Stats:  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagakalyanRavuri&theme=radical)  
+
+👑 Trophies:  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NagakalyanRavuri&theme=onestar)  
+
+---
+
+## 🌍 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NagaKalyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naga-kalyan-41507a254/)  
+[![GitHub](https://img.shields.io/badge/GitHub-NagaKalyan-black?style=for-the-badge&logo=github)](https://github.com/NagakalyanRavuri)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-NagaKalyan-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/nagakalyanravuri/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-NagaKalyan-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ravurinagg6dg/)  
+
+---
+
+😆 _Did you read till here? You deserve a cookie! 🍪_  
