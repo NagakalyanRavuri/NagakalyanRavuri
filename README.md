@@ -1,49 +1,59 @@
-# Hi there! 👋 I'm Nagakalyan 😃  
+<h1 align="center">Hi there! I'm Nagakalyan 👋</h1>
 
-🚀 A **passionate Java Developer** from India who loves building cool projects!  
-
-## 🌟 About Me  
-- 💻 I have worked on:  
-  - 📝 **[Note-taking Web Application](https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git)**  
-  - 📊 **Lead Management System** (Coming soon...)  
-- 🌱 Currently learning **DSA, Competitive Programming, Spring Framework, and Hibernate**  
-- 💬 Ask me about: **Java, HTML, CSS**  
-- 📫 Reach me at: **ravurinagakalyan@gmail.com**  
-- 👨‍💻 Check out my portfolio: **[My Portfolio](https://nagakalyanravuri.github.io/Nagakalyan_portfolio/)**  
-- 🤔 Fun fact: _I think I am funny!_ 😂  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=4000&color=F72585&center=true&width=500&height=40&lines=A+passionate+Java+Developer;Learning+Spring+Boot+and+Hibernate;Love+to+solve+DSA+problems;Always+curious+to+learn+new+things!" />
+</p>
 
 ---
 
-## 🚀 Tech Stack  
-💻 **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+## 🚀 About Me  
+🎯 I have worked on:  
+📌 **[Note-taking Web Application](https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git)**  
+📌 **Lead Management System**  
 
-🛠️ **Frameworks & Tools:**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+📚 Currently learning **DSA, Competitive Programming, Spring Framework, and Hibernate**  
+
+💬 Ask me about **Java, HTML, CSS**  
+
+📧 Reach me at **ravurinagakalyan@gmail.com**  
+
+🌐 Check out my **[Portfolio](https://nagakalyanravuri.github.io/Nagakalyan_portfolio/)**  
+
+😆 Fun fact: _I think I am funny_ 😂  
+
+---
+
+## 🎨 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Nagakalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NagakalyanRavuri&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NagakalyanRavuri&show_icons=true&theme=gruvbox" />
+</p>
 
-🔥 Streak Stats:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagakalyanRavuri&theme=radical)  
+🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagakalyanRavuri&theme=gruvbox" />
+</p>
 
-👑 Trophies:  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NagakalyanRavuri&theme=onestar)  
-
----
-
-## 🌍 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NagaKalyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naga-kalyan-41507a254/)  
-[![GitHub](https://img.shields.io/badge/GitHub-NagaKalyan-black?style=for-the-badge&logo=github)](https://github.com/NagakalyanRavuri)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-NagaKalyan-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/nagakalyanravuri/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-NagaKalyan-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ravurinagg6dg/)  
+🏆 Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NagakalyanRavuri&theme=darkhub" />
+</p>
 
 ---
 
-😆 _Did you read till here? You deserve a cookie! 🍪_  
+## 🌍 Connect with Me  
+🔗 **LinkedIn**: [Naga Kalyan](https://www.linkedin.com/in/naga-kalyan-41507a254/)  
+🔗 **GitHub**: [NagakalyanRavuri](https://github.com/NagakalyanRavuri)  
+🔗 **LeetCode**: [NagakalyanRavuri](https://leetcode.com/u/nagakalyanravuri/)  
+🔗 **GeeksforGeeks**: [NagakalyanRavuri](https://www.geeksforgeeks.org/user/ravurinagg6dg/)  
+
+---
+
+😆 Did you read till here? You deserve a cookie 🍪
