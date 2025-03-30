@@ -1,59 +1,47 @@
-<h1 align="center">Hi there! I'm Nagakalyan 👋</h1>
+# Hi there! I'm Nagakalyan 👋  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=4000&color=F72585&center=true&width=500&height=40&lines=A+passionate+Java+Developer;Learning+Spring+Boot+and+Hibernate;Love+to+solve+DSA+problems;Always+curious+to+learn+new+things!" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=4000&color=F72585&center=true&width=500&height=40&lines=A+passionate+Java+Developer;Learning+Spring+Boot+and+Hibernate;Love+to+solve+DSA+problems;Always+curious+to+learn+new+things)  
 
 ---
 
-## 🚀 About Me  
-🎯 I have worked on:  
-📌 **[Note-taking Web Application](https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git)**  
-📌 **Lead Management System**  
+## About Me  
 
-📚 Currently learning **DSA, Competitive Programming, Spring Framework, and Hibernate**  
+I have worked on:  
+- **[Note-taking Web Application](https://github.com/NagakalyanRavuri/Note-Taking_Webapp.git)**  
+- **Lead Management System**  
 
-💬 Ask me about **Java, HTML, CSS**  
-
-📧 Reach me at **ravurinagakalyan@gmail.com**  
-
-🌐 Check out my **[Portfolio](https://nagakalyanravuri.github.io/Nagakalyan_portfolio/)**  
-
-😆 Fun fact: _I think I am funny_ 😂  
+Currently Learning: DSA, Competitive Programming, Spring Framework, and Hibernate  
+Ask Me About: Java, HTML, CSS  
+Reach Me At: ravurinagakalyan@gmail.com  
+Check Out My Portfolio: [Portfolio](https://nagakalyanravuri.github.io/Nagakalyan_portfolio/)  
 
 ---
 
-## 🎨 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" />
-</p>
+## Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagakalyanRavuri&show_icons=true&theme=gruvbox" />
-</p>
+## GitHub Stats  
 
-🔥 Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagakalyanRavuri&theme=gruvbox" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagakalyanRavuri&show_icons=true&theme=gruvbox)  
 
-🏆 Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NagakalyanRavuri&theme=darkhub" />
-</p>
+Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagakalyanRavuri&theme=gruvbox)  
+
+Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NagakalyanRavuri&theme=darkhub)  
 
 ---
 
-## 🌍 Connect with Me  
-🔗 **LinkedIn**: [Naga Kalyan](https://www.linkedin.com/in/naga-kalyan-41507a254/)  
-🔗 **GitHub**: [NagakalyanRavuri](https://github.com/NagakalyanRavuri)  
-🔗 **LeetCode**: [NagakalyanRavuri](https://leetcode.com/u/nagakalyanravuri/)  
-🔗 **GeeksforGeeks**: [NagakalyanRavuri](https://www.geeksforgeeks.org/user/ravurinagg6dg/)  
+## Connect with Me  
 
----
-
-😆 Did you read till here? You deserve a cookie 🍪
+LinkedIn: [Naga Kalyan](https://www.linkedin.com/in/naga-kalyan-41507a254/)  
+GitHub: [NagakalyanRavuri](https://github.com/NagakalyanRavuri)  
+LeetCode: [NagakalyanRavuri](https://leetcode.com/u/nagakalyanravuri/)  
+GeeksforGeeks: [NagakalyanRavuri](https://www.geeksforgeeks.org/user/ravurinagg6dg/)  
